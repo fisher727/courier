@@ -1,0 +1,277 @@
+/* CSS Datei für Druckausgabe im Browser */
+
+body, .print_page
+{
+	background: #FFFFFF;
+	font-size: 13px;
+    line-height: 18px;
+}
+
+body a:link, body a:visited
+{
+	font-weight: bold;
+	text-decoration: none;
+}
+
+body a:link:after, body a:visited:after
+{
+	font-weight: normal;
+	font-size: 80%;
+}
+#print_header_wrapper
+{
+    height: 140px;
+}
+#print_header_logo_dpdgroup{
+    width: 300px;
+    height: 79px;
+    margin-top: 22px;
+    margin-left: 22px;
+    position: absolute;
+}
+h1, h2
+{
+/*     color: #666666; */
+}
+
+table, tr, td, .modul_bg_gray1, .modul_content, .modul_head_hd, table.subpage_modules .modul_head_hd h2, .modul_bg_grey2_wl, .modul_bg_grey1_wl, 
+.modul_content_without_border, .table_content_col_grey1, .table_content_col_grey2, .modul_bg_blue1_wl, .Release_body  
+{
+    border: 0;
+    background-color: #FFFFFF;
+    color: #666666;
+    background-image: none;
+}
+/*
+.print_page img
+{
+    display: none;
+}
+*/
+.print_page img.newsImage{
+    margin-bottom: 18px;
+}
+.modul_teaser_2s 
+{
+    width: 280px;
+}
+
+.modules
+{
+    width: 650px;
+}
+
+.print_form
+{
+    margin: 5px;
+    padding: 5px 5px 10px 10px;
+    width: 650px; 
+    border: 1px solid #000000; 
+}
+#print_2
+{
+	float:right;
+	width: 160px;
+}
+.div_print
+{
+   /* float: right;
+    margin-right: 20px; */
+    text-align: right;    
+}
+
+.div_print .red_arrow_list
+{
+    margin-bottom: 0px;
+}
+
+.print_button
+{
+    cursor: pointer; 
+    font-size: 12pt; 
+    font-weight: bold;
+}
+
+.print_page h1
+{
+    margin: 10px 0 20px 0;
+    width: 100%;
+    font-family: 'pluto_sans_dpdextralight', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 23px;
+    line-heighft: 28px;
+}
+
+.print_page h2, #press_headline
+{
+    margin: 10px 0 20px 0;
+    width: 100%;
+    font-family: 'pluto_sans_dpdextralight', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.div_print ul{
+    list-style-type: none;
+}
+
+#press_headline b{
+    font-weight: normal;
+}
+
+.url
+{
+    font-size: 8pt;
+}
+
+.print_page
+{
+    /*border: 1px solid green;
+    width: 755px;             */
+    width: 665px; 
+}
+img.header_logo
+{
+    display: inline;
+}
+
+#shipping_planer_result ul 
+{
+	padding-left:15px;
+	margin-left:0;
+}
+#shipping_planer_result .modul_content
+{
+	padding:0;
+}
+
+/* Delivery Time Calculator */
+#delivery_time_result table
+{
+	width:100%;
+	margin:20px 0 0 0;
+	padding:2px 0 2px 0;
+}
+#delivery_time_result table td
+{
+	padding:2px 0 2px 0;
+}
+#delivery_time_result td.first_row
+{
+	width:30%;
+}
+#delivery_time_result td.first_row br
+{
+	margin-top:-10px;
+}
+#delivery_time_result .result_text_day
+{
+	padding-top:0;
+}
+#delivery_time_result div#info_headline
+{
+	margin:30px 0 5px 0;
+	font-size: 12px;
+	font-weight:bold;
+}
+
+/* Press Releases */
+#press_text
+{
+	font-size: 12px;
+}
+p.append_blank_line,
+div.append_blank_line,
+table.append_blank_line,
+p.append_two_blank_lines,
+div.append_two_blank_lines,
+table.append_two_blank_lines,
+p.append_three_blank_lines,
+div.append_three_blank_lines,
+table.append_three_blank_lines 
+{
+	padding-bottom: 0;
+}
+#jobdetailpage
+{
+    display: none;
+}
+#print_header_logo
+{
+	float: left;
+}
+#print_header_line
+{
+	border-bottom: 1px solid #E3002A;
+	margin-left: 120px;
+	padding-top: 30px;
+	margin-right: 5px;
+}
+#dpd_logo
+{
+	display: inline;
+}
+.clearBoth
+{
+	clear: both;
+}
+
+/* Print CSS for portldesign */
+.newsDetail > ul.newsNavi, .footerBox, .popularNews
+{
+    display: none;
+}
+.newsDetail > ul > li:before
+{
+    color: #dc0032;
+    font-size: 24px;
+}
+.newsDetail ul > li
+{
+    padding-left: 14px;
+}
+
+@media screen
+{
+    div#print_footer {
+        position: relative;
+        bottom: 30px;
+        width: 665px;
+        margin-left: 5px;
+        height: 30px;
+        text-align: right;
+    }
+
+    div#print_footer img
+    {
+        display: inline-block;
+        position: absolute;
+    }
+}
+@media print
+{
+    div#print_footer
+    {
+        position: fixed;
+        height: 35px;
+        bottom: 4px;
+        width: 100%;
+        text-align: right;
+    }
+    div#print_footer img
+    {
+        display: block;
+        position: absolute;
+        top: 0.5cm;
+        right: 50px;
+        opacity: 0.6;
+    }
+
+}
+
+
+
+

@@ -1,0 +1,212 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 14 Oct 2019 17:14:42 at https://www.dpd.com/hu_privatecustomers +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.dpd.com/hu_privatecustomers -O1 "C:\My Web Sites\courier" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:14:45	Warning: 	Moved Permanently for https://www.dpd.com/robots.txt
+17:14:45	Warning: 	File has moved from https://www.dpd.com/robots.txt to https://www.dpd.com/en/robots.txt
+17:16:45	Warning: 	Found for https://www.dpd.com/be/nl/ontvangen/
+17:16:45	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.dpd.com/be/nl/ontvangen/ and https://www.dpd.com/be/nl/ontvangen/
+17:16:45	Warning: 	Can not bear crazy server (Found) for https://www.dpd.com/be/nl/ontvangen/
+17:17:31	Warning: 	Found for https://www.dpd.com/de/de/empfangen/
+17:17:31	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.dpd.com/de/de/empfangen/ and https://www.dpd.com/de/de/empfangen/
+17:17:31	Warning: 	Can not bear crazy server (Found) for https://www.dpd.com/de/de/empfangen/
+17:17:31	Warning: 	Moved Permanently for www.dpd.com/robots.txt
+17:17:31	Warning: 	File has moved from www.dpd.com/robots.txt to https://www.dpd.com/en/robots.txt
+17:17:31	Warning: 	Moved Permanently for www.dpd.com/de_privatecustomers/
+17:17:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/de_privatecustomers/ and https://www.dpd.com/de_privatecustomers/
+17:17:31	Warning: 	File has moved from www.dpd.com/de_privatecustomers/ to https://www.dpd.com/de_privatecustomers/
+17:26:34	Warning: 	Moved Permanently for www.dpd.com/
+17:26:34	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/ and https://www.dpd.com/
+17:26:34	Warning: 	File has moved from www.dpd.com/ to https://www.dpd.com/
+17:27:45	Warning: 	Link https://www.dpd.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+17:28:27	Error: 	"Not Found" (404) at link www.dpd.com/hu_en/home/about_dpd/career2 (from https://www.dpd.com/hu_privatecustomers)
+17:41:11	Warning: 	Moved Permanently for www.dpd.com/portal_de/
+17:41:11	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/portal_de/ and https://www.dpd.com/portal_de/
+17:41:11	Warning: 	File has moved from www.dpd.com/portal_de/ to https://www.dpd.com/portal_de/
+18:00:54	Error: 	"Not Found" (404) at link https://www.dpd.com/cz_en/business_customers/zakaznicka_podpora/otazky_a_odpovedi (from https://www.dpd.com/cz_privatecustomers)
+18:18:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 12951522 got 5790185): www.dpd.com/cz_en/content/download/6276/106340/file/jak-spravne-zabalit-zasilky-dpd-en-revision-date-2018-04-23.pdf
+18:19:02	Error: 	"Not Found" (404) at link https://www.dpd.com/lv/sakums/par_dpd/informacijas_centrs/kontakti (from https://www.dpd.com/lv_privatpersonas)
+18:21:15	Error: 	"Not Found" (404) at link https://www.dpd.com/lv/sakums/par_dpd/preses_centrs/preses_relizes (from https://www.dpd.com/lv_privatpersonas)
+18:21:45	Error: 	"Not Found" (404) at link www.dpd.com/lv_ru/home/o_dpd/informacionnyj_centr/kontaktnaya_informaciya (from https://www.dpd.com/lv_chastnijklient)
+18:22:10	Error: 	"Not Found" (404) at link www.dpd.com/lv_ru/home/otpravka2/chasto_zadavaemye_voprosy?q=3385 (from https://www.dpd.com/lv_chastnijklient)
+18:22:22	Error: 	"Not Found" (404) at link www.dpd.com/lv_ru/home/o_dpd/press_centr/press_relizy (from https://www.dpd.com/lv_chastnijklient)
+18:22:48	Error: 	"Not Found" (404) at link www.dpd.com/lv_en/home/about_dpd/information_centre/contacts (from https://www.dpd.com/lv_privatecustomers)
+18:23:03	Error: 	"Not Found" (404) at link www.dpd.com/lv_en/home/shipping2/faq?q=3385 (from https://www.dpd.com/lv_privatecustomers)
+18:23:15	Error: 	"Not Found" (404) at link www.dpd.com/lv_en/home/about_dpd/press_centre/press_releases (from https://www.dpd.com/lv_privatecustomers)
+18:26:19	Error: 	"Not Found" (404) at link www.dpd.com/lt/pradzia/apie_dpd/spaudos_centras (from https://www.dpd.com/lt_privatiems)
+18:28:20	Error: 	"Not Found" (404) at link www.dpd.com/lt_en/dpd_home/about_dpd/press_center (from https://www.dpd.com/lt_privatecustomers)
+18:28:49	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://www.dpd.com/nl_privateklanten)
+18:29:21	Error: 	"Not Found" (404) at link https://www.dpd.com/nl/business_customers/over_dpd/werken_bij_dpd/vacatures (from https://www.dpd.com/nl_privateklanten)
+18:31:02	Error: 	"Not Found" (404) at link https://www.dpd.com/nl_en/business_customers/over_dpd/werken_bij_dpd/vacatures (from https://www.dpd.com/nl_privatecustomers)
+18:31:15	Warning: 	Found for https://www.dpd.com/de_privatecustomers/?mode=receive
+18:31:15	Warning: 	File has moved from https://www.dpd.com/de_privatecustomers/?mode=receive to https://www.dpd.com/en/de_privatecustomers/?mode=receive
+18:31:24	Error: 	"Not Found" (404) at link https://www.dpd.com/nl_en/business_customers/shipping/labelprint_tools/mydpd_pro (from https://www.dpd.com/nl_privatecustomers)
+18:31:30	Error: 	"Not Found" (404) at link https://www.dpd.com/nl_en/business_customers/about_dpd/working_at_dpd/jobs (from https://www.dpd.com/nl_privatecustomers)
+18:31:37	Error: 	"Not Found" (404) at link https://www.dpd.com/nl/content/download/7490/106924/version/4/file/Bezorgvoorwaarden+-+DELIVERY+CONDITIONS+2019-02-01+ENG.pdf (from https://www.dpd.com/nl_privatecustomers)
+18:34:32	Error: 	"Not Found" (404) at link https://www.dpd.com/var/dpd/storage/images/media/images/stage/stage_deliver_ie_fallback/71006-2-eng-GB/trashed/f7e3d24614ed8fb715c0813e1f78e651.jpg (from https://www.dpd.com/ro_persoanefizice)
+18:36:19	Error: 	"Not Found" (404) at link https://www.dpd.com/ro/home/produse_i_servicii/oferta_comerciala (from https://www.dpd.com/ro_persoanefizice)
+18:54:08	Error: 	"Not Found" (404) at link www.dpd.com/sk/home/dpd_online/dpd_mobil (from https://www.dpd.com/sk_prevas)
+19:16:51	Error: 	"Not Found" (404) at link www.dpd.com/sk_en/home/online_services/dpd_mobile (from https://www.dpd.com/sk_privatecustomers)
+19:18:23	Warning: 	Unable to test https://www.dpd.com/be/nl/xmlrpc.php?rsd (loop to same filename)
+19:18:23	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/be/nl/xmlrpc.php?rsd
+19:18:26	Warning: 	Unable to test https://www.dpd.com/be/nl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dpd.com%2Fbe%2Fnl%2F (loop to same filename)
+19:18:26	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/be/nl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dpd.com%2Fbe%2Fnl%2F
+19:18:28	Warning: 	Unable to test https://www.dpd.com/be/nl/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fwww.dpd.com%2Fbe%2Fnl%2F (loop to same filename)
+19:18:28	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/be/nl/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fwww.dpd.com%2Fbe%2Fnl%2F
+19:21:08	Warning: 	Moved Permanently for www.dpd.com/be_fr/
+19:21:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/be_fr/ and https://www.dpd.com/be_fr/
+19:21:08	Warning: 	File has moved from www.dpd.com/be_fr/ to https://www.dpd.com/be_fr/
+19:21:08	Warning: 	Moved Permanently for www.dpd.com/be_en/
+19:21:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/be_en/ and https://www.dpd.com/be_en/
+19:21:08	Warning: 	File has moved from www.dpd.com/be_en/ to https://www.dpd.com/be_en/
+19:26:09	Warning: 	Unable to test https://www.dpd.com/de/de/xmlrpc.php?rsd (loop to same filename)
+19:26:09	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/de/de/xmlrpc.php?rsd
+19:26:11	Warning: 	Unable to test https://www.dpd.com/de/de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dpd.com%2Fde%2Fde%2F (loop to same filename)
+19:26:11	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/de/de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dpd.com%2Fde%2Fde%2F
+19:26:13	Warning: 	Unable to test https://www.dpd.com/de/de/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fwww.dpd.com%2Fde%2Fde%2F (loop to same filename)
+19:26:13	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/de/de/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fwww.dpd.com%2Fde%2Fde%2F
+19:26:38	Warning: 	Moved Permanently for www.dpd.com/de_en/
+19:26:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/de_en/ and https://www.dpd.com/de_en/
+19:26:38	Warning: 	File has moved from www.dpd.com/de_en/ to https://www.dpd.com/de_en/
+19:29:21	Warning: 	Found for https://www.dpd.com/ch/de/
+19:29:21	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.dpd.com/ch/de/ and https://www.dpd.com/ch/de/
+19:29:21	Warning: 	Can not bear crazy server (Found) for https://www.dpd.com/ch/de/
+19:29:21	Warning: 	Moved Permanently for www.dpd.com/ch_fr/
+19:29:21	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/ch_fr/ and https://www.dpd.com/ch_fr/
+19:29:21	Warning: 	File has moved from www.dpd.com/ch_fr/ to https://www.dpd.com/ch_fr/
+19:29:21	Warning: 	Moved Permanently for www.dpd.com/ch_it/
+19:29:21	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/ch_it/ and https://www.dpd.com/ch_it/
+19:29:21	Warning: 	File has moved from www.dpd.com/ch_it/ to https://www.dpd.com/ch_it/
+19:29:21	Warning: 	Moved Permanently for www.dpd.com/ch_en/
+19:29:21	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/ch_en/ and https://www.dpd.com/ch_en/
+19:29:21	Warning: 	File has moved from www.dpd.com/ch_en/ to https://www.dpd.com/ch_en/
+19:30:27	Error: 	"Not Found" (404) at link www.dpd.com/hu_en/Home/Siteutilities/Imprint (from www.dpd.com/hu_en)
+19:32:48	Warning: 	Unable to test https://www.dpd.com/ch/de/xmlrpc.php?rsd (loop to same filename)
+19:32:48	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/ch/de/xmlrpc.php?rsd
+19:32:50	Warning: 	Unable to test https://www.dpd.com/ch/de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dpd.com%2Fch%2Fde%2Funternehmen%2F (loop to same filename)
+19:32:50	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/ch/de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dpd.com%2Fch%2Fde%2Funternehmen%2F
+19:32:52	Warning: 	Unable to test https://www.dpd.com/ch/de/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fwww.dpd.com%2Fch%2Fde%2Funternehmen%2F (loop to same filename)
+19:32:52	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/ch/de/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fwww.dpd.com%2Fch%2Fde%2Funternehmen%2F
+19:33:33	Warning: 	Moved Permanently for www.dpd.com/ch_fr/home/profil_dpd/contact2/
+19:33:33	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/ch_fr/home/profil_dpd/contact2/ and https://www.dpd.com/ch_fr/home/profil_dpd/contact2/
+19:33:33	Warning: 	File has moved from www.dpd.com/ch_fr/home/profil_dpd/contact2/ to https://www.dpd.com/ch_fr/home/profil_dpd/contact2/
+19:33:33	Warning: 	Moved Permanently for www.dpd.com/ch_it/home/profilo_dpd/contatto2/
+19:33:33	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/ch_it/home/profilo_dpd/contatto2/ and https://www.dpd.com/ch_it/home/profilo_dpd/contatto2/
+19:33:33	Warning: 	File has moved from www.dpd.com/ch_it/home/profilo_dpd/contatto2/ to https://www.dpd.com/ch_it/home/profilo_dpd/contatto2/
+19:33:33	Warning: 	Moved Permanently for www.dpd.com/ch_en/home/about_dpd/contact2/
+19:33:33	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/ch_en/home/about_dpd/contact2/ and https://www.dpd.com/ch_en/home/about_dpd/contact2/
+19:33:33	Warning: 	File has moved from www.dpd.com/ch_en/home/about_dpd/contact2/ to https://www.dpd.com/ch_en/home/about_dpd/contact2/
+19:33:42	Warning: 	Unable to test https://www.dpd.com/de/de/xmlrpc.php?rsd (loop to same filename)
+19:33:42	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/de/de/xmlrpc.php?rsd
+19:33:43	Warning: 	Unable to test https://www.dpd.com/de/de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dpd.com%2Fde%2Fde%2Fsupport%2Ffaq%2F (loop to same filename)
+19:33:43	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/de/de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dpd.com%2Fde%2Fde%2Fsupport%2Ffaq%2F
+19:33:45	Warning: 	Unable to test https://www.dpd.com/de/de/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fwww.dpd.com%2Fde%2Fde%2Fsupport%2Ffaq%2F (loop to same filename)
+19:33:45	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/de/de/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fwww.dpd.com%2Fde%2Fde%2Fsupport%2Ffaq%2F
+19:33:50	Warning: 	Moved Permanently for www.dpd.com/de_en/home/siteutilities/contact/
+19:33:50	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/de_en/home/siteutilities/contact/ and https://www.dpd.com/de_en/home/siteutilities/contact/
+19:33:50	Warning: 	File has moved from www.dpd.com/de_en/home/siteutilities/contact/ to https://www.dpd.com/de_en/home/siteutilities/contact/
+19:34:04	Warning: 	Unable to test https://www.dpd.com/be/nl/xmlrpc.php?rsd (loop to same filename)
+19:34:04	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/be/nl/xmlrpc.php?rsd
+19:34:05	Warning: 	Unable to test https://www.dpd.com/be/nl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dpd.com%2Fbe%2Fnl%2Fsupport%2F (loop to same filename)
+19:34:05	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/be/nl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dpd.com%2Fbe%2Fnl%2Fsupport%2F
+19:34:07	Warning: 	Unable to test https://www.dpd.com/be/nl/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fwww.dpd.com%2Fbe%2Fnl%2Fsupport%2F (loop to same filename)
+19:34:07	Warning: 	link is probably looping, type unknown, aborting: https://www.dpd.com/be/nl/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fwww.dpd.com%2Fbe%2Fnl%2Fsupport%2F
+19:34:25	Warning: 	Found for https://www.dpd.com/be/fr/aide/
+19:34:25	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.dpd.com/be/fr/aide/ and https://www.dpd.com/be/fr/aide/
+19:34:25	Warning: 	Can not bear crazy server (Found) for https://www.dpd.com/be/fr/aide/
+19:34:26	Warning: 	Found for https://www.dpd.com/be/en/support/
+19:34:26	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.dpd.com/be/en/support/ and https://www.dpd.com/be/en/support/
+19:34:26	Warning: 	Can not bear crazy server (Found) for https://www.dpd.com/be/en/support/
+19:34:52	Error: 	"Not Found" (404) at link https://www.dpd.com/lv_ru/glavnaya/o_dpd/informacionnyj_centr/kontaktnaya_informaciya (from www.dpd.com/hu_en/home/siteutilities/kapcsolat)
+19:35:26	Error: 	"Not Found" (404) at link www.dpd.com/sk_en/home/produkty_a_sluzby/medzinarodna_preprava/klasicke_sluzby (from https://www.dpd.com/hu_privatecustomers/?mode=deliver)
+19:35:41	Error: 	"Not Found" (404) at link https://www.dpd.com/hu/home/termekek_es_szolgaltatasok/opciok/3_oras_predict (from www.dpd.com/hu/home/siteutilities/kapcsolat)
+19:35:52	Error: 	"Not Found" (404) at link www.dpd.com/hu/Home/Siteutilities/Imprint (from www.dpd.com/hu/home/siteutilities/kapcsolat)
+19:36:11	Error: 	"Not Found" (404) at link https://www.dpd.com/hu/fs.minit@gmail.com (from https://www.dpd.com/hu_en/home/shipping/shipping_methods/pickup/pickup_csomagpontok)
+19:36:11	Error: 	"Not Found" (404) at link https://www.dpd.com/hu/csomagpontwestend@dpd.hu (from https://www.dpd.com/hu_en/home/shipping/shipping_methods/pickup/pickup_csomagpontok)
+19:36:11	Error: 	"Not Found" (404) at link https://www.dpd.com/hu_en/fs.minit@gmail.com (from https://www.dpd.com/hu_en/home/shipping/shipping_methods/pickup/pickup_csomagpontok)
+19:36:11	Error: 	"Not Found" (404) at link https://www.dpd.com/hu_en/bolcsbagoly.vac@gmail.com (from https://www.dpd.com/hu_en/home/shipping/shipping_methods/pickup/pickup_csomagpontok)
+19:36:11	Error: 	"Not Found" (404) at link https://www.dpd.com/hu_en/cipruslak@gmail.com (from https://www.dpd.com/hu_en/home/shipping/shipping_methods/pickup/pickup_csomagpontok)
+19:36:31	Warning: 	Moved Permanently for www.dpd.com/de/content/view/full/212/
+19:36:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/de/content/view/full/212/ and https://www.dpd.com/de/content/view/full/212/
+19:36:31	Warning: 	File has moved from www.dpd.com/de/content/view/full/212/ to https://www.dpd.com/de/content/view/full/212/
+19:36:31	Warning: 	Moved Permanently for www.dpd.com/de/home/versand/internationaler_versand2/versandplaner/
+19:36:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/de/home/versand/internationaler_versand2/versandplaner/ and https://www.dpd.com/de/home/versand/internationaler_versand2/versandplaner/
+19:36:31	Warning: 	File has moved from www.dpd.com/de/home/versand/internationaler_versand2/versandplaner/ to https://www.dpd.com/de/home/versand/internationaler_versand2/versandplaner/
+19:36:31	Warning: 	Moved Permanently for www.dpd.com/de/home/versand/internationaler_versand2/handelsrechnung/
+19:36:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/de/home/versand/internationaler_versand2/handelsrechnung/ and https://www.dpd.com/de/home/versand/internationaler_versand2/handelsrechnung/
+19:36:31	Warning: 	File has moved from www.dpd.com/de/home/versand/internationaler_versand2/handelsrechnung/ to https://www.dpd.com/de/home/versand/internationaler_versand2/handelsrechnung/
+19:36:31	Warning: 	Link https://www.dpd.com/de/de/seite-nicht-gefunden/ not scanned (follow robots meta tag)
+19:36:31	Warning: 	Moved Permanently for www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/hoeherversicherung/
+19:36:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/hoeherversicherung/ and https://www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/hoeherversicherung/
+19:36:31	Warning: 	File has moved from www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/hoeherversicherung/ to https://www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/hoeherversicherung/
+19:36:31	Warning: 	Moved Permanently for www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/nachnahme/
+19:36:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/nachnahme/ and https://www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/nachnahme/
+19:36:31	Warning: 	File has moved from www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/nachnahme/ to https://www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/nachnahme/
+19:36:31	Warning: 	Moved Permanently for www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/rueckholung/
+19:36:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/rueckholung/ and https://www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/rueckholung/
+19:36:31	Warning: 	File has moved from www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/rueckholung/ to https://www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/rueckholung/
+19:36:31	Warning: 	Moved Permanently for www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/gefahrgut/
+19:36:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/gefahrgut/ and https://www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/gefahrgut/
+19:36:31	Warning: 	File has moved from www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/gefahrgut/ to https://www.dpd.com/de/home/produkte_services/zusatzleistungen2/international/gefahrgut/
+19:36:49	Error: 	"Not Found" (404) at link www.dpd.com/hu_en/home/shipping/General Contractual Conditions for domestic deliveries 01.09.2018.pdf (from www.dpd.com/hu_en/home/shipping/gtc)
+19:36:49	Warning: 	Retry after error -4 (Incorrect length (5375709 Bytes, 5581205 expected)) at link www.dpd.com/hu_en/content/download/4308/67179/file/General Contractual Conditions for domestic deliveries 01.09.2018.pdf (from www.dpd.com/hu_en/home/shipping/gtc)
+19:36:49	Error: 	"Not Found" (404) at link www.dpd.com/hu_en/home/shipping/General Contractual Conditions for domestic deliveries 08.04.2019..pdf (from www.dpd.com/hu_en/home/shipping/gtc)
+19:36:49	Warning: 	Retry after error -4 (Incorrect length (4915148 Bytes, 5141509 expected)) at link www.dpd.com/hu_en/content/download/4319/67287/file/General Contractual Conditions for domestic deliveries 08.04.2019..pdf (from www.dpd.com/hu_en/home/shipping/gtc)
+19:41:37	Error: 	Exit requested by shell or user
+19:41:39	Error: 	"Not Found" (404) at link https://www.dpd.com/at/home/about_dpd/!3m1!4b1!4m5!3m4!1s0x476d0108fefcf517:0x26adcd3112435684!8m2!3d48.2244243!4d16.4998939?hl=de%22 (from https://www.dpd.com/at/home/about_dpd/dpd_city_hub)
+19:41:40	Error: 	"Not Found" (404) at link https://www.dpd.com/at/home/ueber_dpd/presse_center/Auszug Infografik_Devices.pdf (from https://www.dpd.com/at/home/ueber_dpd/presse_center/presse_aussendung)
+19:41:40	Error: 	"Not Found" (404) at link https://www.dpd.com/at/home/ueber_dpd/presse_center/Auszug Infografik_Top Produkte.pdf (from https://www.dpd.com/at/home/ueber_dpd/presse_center/presse_aussendung)
+19:41:40	Error: 	"Not Found" (404) at link https://www.dpd.com/at/home/ueber_dpd/presse_center/Corporate brochure_AT_low res.pdf (from https://www.dpd.com/at/home/ueber_dpd/presse_center/presse_aussendung)
+19:41:40	Error: 	"Not Found" (404) at link https://www.dpd.com/at/www.dpd.at (from https://www.dpd.com/at/home/ueber_dpd/presse_center/presse_aussendung)
+19:41:40	Error: 	"Not Found" (404) at link https://www.dpd.com/at/home/ueber_dpd/presse_center/DPD_PI_12042018_fin.pdf (from https://www.dpd.com/at/home/ueber_dpd/presse_center/presse_aussendung)
+19:41:40	Error: 	"Not Found" (404) at link https://www.dpd.com/at/home/ueber_dpd/presse_center/Diagramm 30 Jahre Wachstum_screen.pdf (from https://www.dpd.com/at/home/ueber_dpd/presse_center/presse_aussendung)
+19:41:42	Error: 	"Not Found" (404) at link www.dpd.com/at/home/siteutilities/AGBs_DPDA_national_072019.pdf (from www.dpd.com/at/home/siteutilities/agb)
+19:41:42	Error: 	"Not Found" (404) at link www.dpd.com/at/home/siteutilities/AGBs_DPDA_international_072019.pdf (from www.dpd.com/at/home/siteutilities/agb)
+19:41:42	Error: 	"Not Found" (404) at link www.dpd.com/at/home/siteutilities/AGB_Pickup_072019_DPDA_am_Shop.pdf (from www.dpd.com/at/home/siteutilities/agb)
+19:41:43	Error: 	"Not Found" (404) at link https://www.dpd.com/at/home/about_dpd/dpd_city_hubhttps://www.dpd.com/at_en/home/ueber_dpd/dpd_city_hub (from https://www.dpd.com/at_privatecustomers/?mode=deliver)
+19:41:44	Error: 	"Not Found" (404) at link https://www.dpd.com/at_en/home/ueber_dpd/!4m5!3m4!1s0x476d0108fefcf517:0x26adcd3112435684!8m2!3d48.2244243!4d16.4998939" (from https://www.dpd.com/at_en/home/ueber_dpd/dpd_city_hub)
+19:41:49	Error: 	"Not Found" (404) at link www.dpd.com/at_en/home/siteutilities/AGBs_DPDA_national_072019_en.pdf (from www.dpd.com/at_en/home/siteutilities/gtc)
+19:41:49	Error: 	"Not Found" (404) at link www.dpd.com/at_en/home/siteutilities/AGBs_DPDA_international_072019_en.pdf (from www.dpd.com/at_en/home/siteutilities/gtc)
+19:41:49	Error: 	"Not Found" (404) at link www.dpd.com/at_en/home/siteutilities/AGB_Pickup_072019_DPDA_am_Shop.pdf (from www.dpd.com/at_en/home/siteutilities/gtc)
+19:41:50	Warning: 	Found for https://www.dpd.com/group/en/legal-and-copyright-notice-disclaimer-dispute-settlement/
+19:41:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.dpd.com/group/en/legal-and-copyright-notice-disclaimer-dispute-settlement/ and https://www.dpd.com/group/en/legal-and-copyright-notice-disclaimer-dispute-settlement/
+19:41:50	Warning: 	Can not bear crazy server (Found) for https://www.dpd.com/group/en/legal-and-copyright-notice-disclaimer-dispute-settlement/
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/Vseobecne-obchodni-podminky-dpd-cz-platnost-od-2018-10-01.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/DPD-VOP_platnost_od_1-12-2017-CZ.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/Přehled zboží vyloučeného z přepravy DPDgroup platný od 1.10.2019.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/cenik-priplatku-dpd-a4-cz-rgb-web-zari-2019-verze-a.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/cenik-vnitrostatni-zakladni-verejny-dpd-cz.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/cenik-mezinarodni-preprava-cz-verejny.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/cenik-mezinarodni-40136-dpd-express-cz-rgb-web-datum-revize-2018-04-25.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/jak-spravne-zabalit-zasilky-dpd-cz-datum-revize-2018-04-23.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Warning: 	Retry after error -4 (Incorrect length (3143649 Bytes, 3490896 expected)) at link www.dpd.com/cz/content/download/6276/106336/file/jak-spravne-zabalit-zasilky-dpd-cz-datum-revize-2018-04-23.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/jak-spravne-reklamovat-zasilku-dpd-cz-rgb-web-datum-revize-2018-04-25.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/seznam-mest-povolena-svozova-psc-dpd-cz-rgb-web-datum-revize-2018-04-25.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/dpd-private-casove-intervaly-cz-rgb-web-datum-revize-2018-04-25.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/aktualni-seznam-svozovych-psc-dpd-10.00-cz-rgb-web-datum-revize-2019-01-24.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:51	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/aktualni-seznam-svozovych-psc-dpd-express-cz-rgb-web-datum-revize-2018-04-25.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:52	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/cenik-priplatku-dpd-a4-cz-rgb-web-datum-revize-2019-01-07.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:52	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/cenik-priplatku-dpd-a4-cz-rgb-web-datum-revize-2018-05-17.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:52	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/VOP platné od 2. 6. 2016.zip (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:52	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/Vseobecne obchodni podminky_01042014.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:52	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/Vseobecne obchodni podminky_01082013.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:52	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/DPD_Všeobecné obchodní podmínky_01032013.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/vseobecne_obchodni_podminky)
+19:41:52	Warning: 	Found for https://www.dpd.com/pec/en/czech-republic/
+19:41:52	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.dpd.com/pec/en/czech-republic/ and https://www.dpd.com/pec/en/czech-republic/
+19:41:52	Warning: 	Can not bear crazy server (Found) for https://www.dpd.com/pec/en/czech-republic/
+19:41:53	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/poznejte_nas/casopis-csr-dpd-cervenec-2017-datum-revize-2018-05-21.pdf (from www.dpd.com/cz/business_customers/poznejte_nas/spolecenska_odpovednost)
+19:41:53	Error: 	"Not Found" (404) at link www.dpd.com/cz/business_customers/podminky_a_soukromi/Vyjádření DPD CZ k problematice uzavírání zpracovatelských smluv dle GDPR.pdf (from www.dpd.com/cz/business_customers/podminky_a_soukromi/ochrana_osobnich_udaju)
+19:41:58	Error: 	Exit requested by shell or user
+19:41:58	Error: 	"" (-1) at link www.dpd.com/cz_en/business_customers/shipping/!4m2!3m1!1s0x470b8ee5f9cc27f5:0x1d85520826651708" (from www.dpd.com/cz_en/business_customers/shipping/depots)
+19:41:58	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 27 minutes 16 seconds : 3934 links scanned, 3469 files written (334803485 bytes overall) [278106279 bytes received at 31474 bytes/sec], 148746929 bytes transferred using HTTP compression in 3052 files, ratio 26%, 8.6 requests per connection
+(74 errors, 123 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

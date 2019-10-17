@@ -1,0 +1,19 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.dpd.com	TRUE	/	FALSE	1999999999	__cfduid	d6d6f668b7d17aa6714f43be3abc8df561571069684
+www.dpd.com	TRUE	/	FALSE	1999999999	BIGipServer~KD182936~KD182936_dpd_http	!abqaGW7YY//SakPJ2B67GnFpfDCBPDkcqZMXOTjzzNy68WxH8/EhtpEliZF5yQKzMnzSIQneTat0eNIxkBNG3zF4ZOJdy5HdiqQlwhk=
+.dpd.com	TRUE	/	FALSE	1999999999	dtCookie	1$9C85E2D87978074182E06D01B6D55341
+www.dpd.com	TRUE	/	FALSE	1999999999	eZSESSID	vqe1ds8i4gokn99tu5jh69at32
+www.dpd.com	TRUE	/	FALSE	1999999999	current_language_77	en_US
+www.dpd.com	TRUE	/	FALSE	1999999999	eZSESSID8c2d075a482034e4836a449953e05aea	2rudho4fu93o09te50orjp7f64
+www.dpd.com	TRUE	/	FALSE	1999999999	current_language_215	en_US
+www.dpd.com	TRUE	/	FALSE	1999999999	eZSESSIDe4b126b6d3aeb02b33836bda86deb8fe	m25cts9f04dj9dp7caib8ra3h0
+www.dpd.com	TRUE	/	FALSE	1999999999	dpd-connect-generic-redirect	https%3A%2F%2Fwww.dpd.com%2Fen%2Fen%2Fwww.dpd.com
+www.dpd.com	TRUE	/	FALSE	1999999999	eZSESSID87a2872fa1f98ab51af73be6c1b3308c	rmugmishlb8iggc43jt7q25v43
+www.dpd.com	TRUE	/	FALSE	1999999999	current_language_223	de_DE
+www.dpd.com	TRUE	/	FALSE	1999999999	eZSESSID701548a547916dca1a39df05aaf562a4	5e32v3mp7rjt5u5as8s4r6kl11
+www.dpd.com	TRUE	/	FALSE	1999999999	current_language_59	de_DE
+www.dpd.com	TRUE	/	FALSE	1999999999	current_language_1	en_US
+www.dpd.com	TRUE	/	FALSE	1999999999	PHPSESSID	k4i524d1l5e6d7v76b57e7a0j4
+www.dpd.com	TRUE	/	FALSE	1999999999	current_language_218	nl_NL
+
